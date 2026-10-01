@@ -4,15 +4,15 @@
 
 ## 🚀 Demo
 1. Spot the problem: monthly trend
-![Monthly Revenue Trend](screenshots/monthly-revenue-trend.png)
+![Monthly Revenue Trend](monthly-revenue-trend.png)
 2. Quantify the drop: February vs March
-![February vs March](screenshots/feb-vs-march.png)
+![February vs March](feb-vs-march.png)
 3. Find the cause: category breakdown
-![Revenue Change by Category](screenshots/category-revenue-change.png)
-![Category Contribution](screenshots/category-contribution.png)
+![Revenue Change by Category](category-revenue-change.png)
+![Category Contribution](category-contribution.png)
 4. Drill down: customers and regions
-![Top Customers](screenshots/top-customers.png)
-![Revenue Change by Region](screenshots/region-revenue-change.png)
+![Top Customers](top-customers.png)
+![Revenue Change by Region](region-revenue-change.png)
 
 Ask:
 

@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_price
+P0001,Dumbbells,Sports,197.21
+P0002,T-Shirt,Clothing,225.15
+P0003,Vacuum Cleaner,Home & Kitchen,730.29
+P0004,Science Book,Books,449.27
+P0005,Dining Table,Furniture,249.66
+P0006,T-Shirt,Clothing,209.75
+P0007,Yoga Mat,Sports,311.37
+P0008,Running Shoes,Sports,733.09
+P0009,Football,Sports,649.06
+P0010,Sofa,Furniture,1253.57
+P0011,Cricket Bat,Sports,405.02
+P0012,Football,Sports,171.76
+P0013,Desk,Furniture,104.06
+P0014,Science Book,Books,541.83
+P0015,Tennis Racket,Sports,821.21
+P0016,Headphones,Electronics,413.91
+P0017,Sofa,Furniture,823.18
+P0018,Cricket Bat,Sports,232.35
+P0019,Smartphone,Electronics,1468.93
+P0020,Dining Table,Furniture,1116.32
+P0021,Business Book,Books,476.86
+P0022,Football,Sports,184.2
+P0023,Camera,Electronics,504.01
+P0024,Tennis Racket,Sports,733.15
+P0025,Toaster,Home & Kitchen,528.25
+P0026,Tennis Racket,Sports,404.64
+P0027,Bed,Furniture,979.23
+P0028,Finance Book,Books,528.57
+P0029,Cricket Bat,Sports,333.2
+P0030,Business Book,Books,326.57
+P0031,Keyboard,Electronics,392.32
+P0032,Sneakers,Clothing,201.25
+P0033,History Book,Books,60.22
+P0034,Running Shoes,Sports,300.89
+P0035,Tablet,Electronics,647.91
+P0036,Sofa,Furniture,1224.39
+P0037,Tablet,Electronics,76.29
+P0038,Finance Book,Books,351.39
+P0039,Tennis Racket,Sports,678.86
+P0040,Monitor,Electronics,199.13
+P0041,Air Fryer,Home & Kitchen,291.64
+P0042,Dumbbells,Sports,188.09
+P0043,Sofa,Furniture,1278.79
+P0044,Coffee Maker,Home & Kitchen,992.33
+P0045,Dining Table,Furniture,970.25
+P0046,Smartphone,Electronics,1109.74
+P0047,Bed,Furniture,573.81
+P0048,Office Chair,Furniture,1031.97
+P0049,Bed,Furniture,243.96
+P0050,Science Book,Books,576.55
+P0051,Blender,Home & Kitchen,757.61
+P0052,Smartphone,Electronics,239.15
+P0053,Smart Watch,Electronics,234.82
+P0054,Tablet,Electronics,264.44
+P0055,Laptop,Electronics,249.37
+P0056,Cookware Set,Home & Kitchen,153.27
+P0057,History Book,Books,448.64
+P0058,Blender,Home & Kitchen,933.75
+P0059,Cricket Bat,Sports,676.65
+P0060,Monitor,Electronics,553.93
+P0061,Blender,Home & Kitchen,392.68
+P0062,Cricket Bat,Sports,29.83
+P0063,Air Fryer,Home & Kitchen,657.61
+P0064,T-Shirt,Clothing,624.89
+P0065,Bookshelf,Furniture,1076.7
+P0066,Bookshelf,Furniture,165.83
+P0067,Smart Watch,Electronics,1429.27
+P0068,Novel,Books,320.59
+P0069,Headphones,Electronics,1052.82
+P0070,Bookshelf,Furniture,233.98
+P0071,Toaster,Home & Kitchen,146.23
+P0072,Bookshelf,Furniture,989.26
+P0073,T-Shirt,Clothing,581.71
+P0074,Business Book,Books,444.76
+P0075,Sofa,Furniture,1009.9
+P0076,Tennis Racket,Sports,322.5
+P0077,Football,Sports,455.96
+P0078,Camera,Electronics,439.71
+P0079,Monitor,Electronics,286.27
+P0080,Toaster,Home & Kitchen,936.47
+P0081,Sneakers,Clothing,439.08
+P0082,Jeans,Clothing,613.86
+P0083,Bookshelf,Furniture,1189.18
+P0084,Tablet,Electronics,1602.61
+P0085,Camera,Electronics,284.45
+P0086,Headphones,Electronics,781.22
+P0087,Cricket Bat,Sports,160.84
+P0088,Football,Sports,454.46
+P0089,Office Chair,Furniture,849.92
+P0090,Coffee Maker,Home & Kitchen,724.46
+P0091,Toaster,Home & Kitchen,437.67
+P0092,Tablet,Electronics,763.37
+P0093,Sofa,Furniture,1207.93
+P0094,Business Book,Books,567.75
+P0095,Jeans,Clothing,266.44
+P0096,Business Book,Books,383.46
+P0097,Bookshelf,Furniture,990.05
+P0098,Smartphone,Electronics,476.47
+P0099,Smart Watch,Electronics,1122.87
+P0100,Air Fryer,Home & Kitchen,573.14
+P0101,Cookware Set,Home & Kitchen,381.19
+P0102,Running Shoes,Sports,75.23
+P0103,Yoga Mat,Sports,615.17
+P0104,Jeans,Clothing,239.47
+P0105,Office Chair,Furniture,372.76
+P0106,Bookshelf,Furniture,1176.05
+P0107,Coffee Maker,Home & Kitchen,445.5
+P0108,Smartphone,Electronics,1014.92
+P0109,Cricket Bat,Sports,126.17
+P0110,Smart Watch,Electronics,1457.95
+P0111,Running Shoes,Sports,220.73
+P0112,Coffee Maker,Home & Kitchen,290.65
+P0113,Toaster,Home & Kitchen,178.64
+P0114,Smartphone,Electronics,996.27
+P0115,Science Book,Books,406.07
+P0116,Laptop,Electronics,297.31
+P0117,Novel,Books,75.61
+P0118,Business Book,Books,47.75
+P0119,Dining Table,Furniture,725.47
+P0120,Coffee Maker,Home & Kitchen,119.63
+P0121,Cookware Set,Home & Kitchen,718.37
+P0122,Keyboard,Electronics,1744.92
+P0123,Jacket,Clothing,776.46
+P0124,Vacuum Cleaner,Home & Kitchen,314.23
+P0125,Desk,Furniture,184.69
+P0126,Smart Watch,Electronics,66.75
+P0127,Sofa,Furniture,506.74
+P0128,Science Book,Books,220.94
+P0129,Novel,Books,264.54
+P0130,Coffee Maker,Home & Kitchen,49.09
+P0131,Cricket Bat,Sports,22.82
+P0132,Technology Book,Books,484.55
+P0133,Running Shoes,Sports,373.08
+P0134,Sneakers,Clothing,673.25
+P0135,Coffee Maker,Home & Kitchen,826.73
+P0136,Dress,Clothing,474.76
+P0137,Bed,Furniture,1167.71
+P0138,Coffee Maker,Home & Kitchen,38.6
+P0139,Sneakers,Clothing,331.94
+P0140,Headphones,Electronics,583.9
+P0141,Business Book,Books,358.52
+P0142,Camera,Electronics,125.22
+P0143,Novel,Books,286.81
+P0144,Keyboard,Electronics,70.66
+P0145,Dumbbells,Sports,226.11
+P0146,Keyboard,Electronics,1483.45
+P0147,Cricket Bat,Sports,20.67
+P0148,Business Book,Books,598.52
+P0149,T-Shirt,Clothing,631.01
+P0150,Dress,Clothing,494.68
+P0151,Keyboard,Electronics,1461.02
+P0152,Science Book,Books,500.12
+P0153,Toaster,Home & Kitchen,787.66
+P0154,Air Fryer,Home & Kitchen,646.1
+P0155,Camera,Electronics,386.44
+P0156,Science Book,Books,82.72
+P0157,Air Fryer,Home & Kitchen,610.93
+P0158,Sneakers,Clothing,96.01
+P0159,Camera,Electronics,297.85
+P0160,Sneakers,Clothing,762.8
+P0161,Blender,Home & Kitchen,579.6
+P0162,Bookshelf,Furniture,1168.02
+P0163,Air Fryer,Home & Kitchen,199.36
+P0164,Finance Book,Books,580.62
+P0165,Dumbbells,Sports,542.9
+P0166,Dumbbells,Sports,822.36
+P0167,Coffee Maker,Home & Kitchen,810.87
+P0168,Novel,Books,495.66
+P0169,Bed,Furniture,1240.06
+P0170,Dining Table,Furniture,64.09
+P0171,Tablet,Electronics,945.47
+P0172,Laptop,Electronics,193.04
+P0173,Bed,Furniture,934.56
+P0174,Keyboard,Electronics,1148.77
+P0175,Smartphone,Electronics,1534.73
+P0176,Bed,Furniture,534.79
+P0177,Dumbbells,Sports,522.12
+P0178,Dumbbells,Sports,798.53
+P0179,Coffee Maker,Home & Kitchen,902.82
+P0180,Laptop,Electronics,1757.68
+P0181,History Book,Books,503.73
+P0182,Novel,Books,357.54
+P0183,Business Book,Books,310.83
+P0184,Yoga Mat,Sports,836.56
+P0185,Jeans,Clothing,435.52
+P0186,Headphones,Electronics,832.08
+P0187,Cricket Bat,Sports,470.59
+P0188,Dumbbells,Sports,884.88
+P0189,T-Shirt,Clothing,359.13
+P0190,Football,Sports,170.21
+P0191,Sneakers,Clothing,439.43
+P0192,Air Fryer,Home & Kitchen,333.79
+P0193,Tablet,Electronics,1498.02
+P0194,Office Chair,Furniture,549.7
+P0195,T-Shirt,Clothing,483.01
+P0196,Technology Book,Books,404.77
+P0197,Tennis Racket,Sports,803.85
+P0198,Cricket Bat,Sports,256.51
+P0199,Dumbbells,Sports,609.3
+P0200,Tennis Racket,Sports,150.69

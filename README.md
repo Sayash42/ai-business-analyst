@@ -17,3 +17,16 @@ The application automatically:
 5. Identifies key contributors
 6. Generates business insights
 7. Creates interactive visualizations
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- SQLite
+- Pandas
+- NumPy
+- OpenAI API
+- LangChain
+- Plotly
+- Streamlit
+- Pytest
+- Git/GitHub
